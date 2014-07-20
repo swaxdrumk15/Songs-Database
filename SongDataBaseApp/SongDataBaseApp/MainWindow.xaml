@@ -21,6 +21,10 @@
         </controls:WindowCommands>
     </controls:MetroWindow.RightWindowCommands>
 
-    <!-- window layout -->
-    
+    <!-- window layouts -->
+    <Grid>
+        <Grid.RowDefinitions>
+            
+        </Grid.RowDefinitions>
+    </Grid>
 </controls:MetroWindow>
